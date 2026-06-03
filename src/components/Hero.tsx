@@ -72,8 +72,8 @@ export default function Hero() {
             transition={{ duration: 1.2, ease: "easeOut" }}
           >
             <h1 className="text-paper text-5xl sm:text-7xl md:text-[95px] leading-[1] font-serif font-light tracking-tight px-4 mb-4">
-              Crafting Spaces <br className="hidden md:block" />
-              That <span className="italic text-gold">Tell Your Story</span>
+              Possession Ready? Pune's Premium Interior Studio Delivers in 45–75 Days
+            
             </h1>
             <p className="text-paper/60 text-[10px] sm:text-xs font-sans tracking-[0.3em] uppercase">
               Exclusive Luxury Interior Design & Bespoke Styling
